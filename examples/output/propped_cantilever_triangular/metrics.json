@@ -1,0 +1,31 @@
+{
+  "name": "propped_cantilever_triangular",
+  "length_m": 5.0,
+  "section": "W14x48",
+  "reactions_kN": [
+    6.75,
+    8.25
+  ],
+  "reaction_moments_kNm": [
+    8.75,
+    0.0
+  ],
+  "max_shear_kN": -8.25,
+  "max_shear_x_m": 5.0,
+  "max_moment_kNm": -8.75,
+  "max_moment_x_m": 0.0,
+  "min_moment_kNm": -8.75,
+  "max_deflection_mm": 0.2837,
+  "max_deflection_x_m": 2.9875,
+  "sigma_max_MPa": 7.606,
+  "sigma_allow_MPa": 227.7,
+  "bending_utilization": 0.0334,
+  "tau_max_MPa": 2.727,
+  "shear_utilization": 0.0198,
+  "phi_Mn_kNm": 396.878,
+  "demand_capacity_ratio": 0.022,
+  "delta_allow_mm": 13.889,
+  "verdict": "PASS",
+  "equilibrium_force_residual_kN": 1.3555094824369007e-09,
+  "equilibrium_moment_residual_kNm": 4.943998987982923e-09
+}
