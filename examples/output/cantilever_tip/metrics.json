@@ -1,0 +1,29 @@
+{
+  "name": "cantilever_tip",
+  "length_m": 4.0,
+  "section": "W12x26",
+  "reactions_kN": [
+    8.0
+  ],
+  "reaction_moments_kNm": [
+    32.0
+  ],
+  "max_shear_kN": 8.0,
+  "max_shear_x_m": 3.6,
+  "max_moment_kNm": -32.0,
+  "max_moment_x_m": 0.0,
+  "min_moment_kNm": -32.0,
+  "max_deflection_mm": 10.0497,
+  "max_deflection_x_m": 4.0,
+  "sigma_max_MPa": 58.466,
+  "sigma_allow_MPa": 227.7,
+  "bending_utilization": 0.2568,
+  "tau_max_MPa": 4.412,
+  "shear_utilization": 0.032,
+  "phi_Mn_kNm": 189.28,
+  "demand_capacity_ratio": 0.1691,
+  "delta_allow_mm": 11.111,
+  "verdict": "PASS",
+  "equilibrium_force_residual_kN": 7.421476766467094e-10,
+  "equilibrium_moment_residual_kNm": -1.1355432150139677e-08
+}
