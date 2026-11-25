@@ -1,0 +1,1 @@
+{"E_MPa":200000,"length_m":8.0,"loads":[{"type":"udl","w_kN_m":5,"x1_m":0,"x2_m":8}],"name":"continuous_two_span","options":{"deflection_limit_ratio":360,"include_self_weight":false},"section":{"Fy_MPa":345,"designation":"W12x26","type":"aisc"},"supports":[{"type":"pin","x_m":0},{"type":"roller","x_m":4},{"type":"roller","x_m":8}]}

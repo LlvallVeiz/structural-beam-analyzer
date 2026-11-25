@@ -1,0 +1,1 @@
+{"E_MPa":200000,"length_m":5.0,"loads":[{"type":"triangular","w1_kN_m":0,"w2_kN_m":6,"x1_m":0,"x2_m":5}],"name":"propped_cantilever_triangular","options":{"deflection_limit_ratio":360,"include_self_weight":false},"section":{"Fy_MPa":345,"designation":"W14x48","type":"aisc"},"supports":[{"type":"fixed","x_m":0},{"type":"roller","x_m":5}]}
