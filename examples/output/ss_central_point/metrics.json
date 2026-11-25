@@ -1,0 +1,31 @@
+{
+  "name": "ss_central_point",
+  "length_m": 6.0,
+  "section": "W12x26",
+  "reactions_kN": [
+    5.0,
+    5.0
+  ],
+  "reaction_moments_kNm": [
+    0.0,
+    0.0
+  ],
+  "max_shear_kN": 5.0,
+  "max_shear_x_m": 2.82,
+  "max_moment_kNm": 15.0,
+  "max_moment_x_m": 3.0,
+  "min_moment_kNm": 0.0,
+  "max_deflection_mm": 2.6498,
+  "max_deflection_x_m": 3.0,
+  "sigma_max_MPa": 27.406,
+  "sigma_allow_MPa": 227.7,
+  "bending_utilization": 0.1204,
+  "tau_max_MPa": 2.757,
+  "shear_utilization": 0.02,
+  "phi_Mn_kNm": 189.28,
+  "demand_capacity_ratio": 0.0792,
+  "delta_allow_mm": 16.667,
+  "verdict": "PASS",
+  "equilibrium_force_residual_kN": 1.4406396076083183e-09,
+  "equilibrium_moment_residual_kNm": 7.203198038041592e-09
+}
