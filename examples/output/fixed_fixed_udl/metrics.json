@@ -1,0 +1,31 @@
+{
+  "name": "fixed_fixed_udl",
+  "length_m": 6.0,
+  "section": "W10x22",
+  "reactions_kN": [
+    12.0,
+    12.0
+  ],
+  "reaction_moments_kNm": [
+    12.0,
+    -12.0
+  ],
+  "max_shear_kN": 12.0,
+  "max_shear_x_m": 0.0,
+  "max_moment_kNm": -12.0,
+  "max_moment_x_m": 6.0,
+  "min_moment_kNm": -12.0,
+  "max_deflection_mm": 1.3743,
+  "max_deflection_x_m": 3.0,
+  "sigma_max_MPa": 31.564,
+  "sigma_allow_MPa": 227.7,
+  "bending_utilization": 0.1386,
+  "tau_max_MPa": 7.62,
+  "shear_utilization": 0.0552,
+  "phi_Mn_kNm": 135.346,
+  "demand_capacity_ratio": 0.0887,
+  "delta_allow_mm": 16.667,
+  "verdict": "PASS",
+  "equilibrium_force_residual_kN": 1.8167050086503878e-09,
+  "equilibrium_moment_residual_kNm": 7.847120286896825e-09
+}
