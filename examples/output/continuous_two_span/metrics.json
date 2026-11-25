@@ -1,0 +1,33 @@
+{
+  "name": "continuous_two_span",
+  "length_m": 8.0,
+  "section": "W12x26",
+  "reactions_kN": [
+    7.5,
+    25.0,
+    7.5
+  ],
+  "reaction_moments_kNm": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "max_shear_kN": 12.5,
+  "max_shear_x_m": 4.0,
+  "max_moment_kNm": -10.0,
+  "max_moment_x_m": 4.0,
+  "min_moment_kNm": -10.0,
+  "max_deflection_mm": 0.4082,
+  "max_deflection_x_m": 1.6867,
+  "sigma_max_MPa": 18.271,
+  "sigma_allow_MPa": 227.7,
+  "bending_utilization": 0.0802,
+  "tau_max_MPa": 6.894,
+  "shear_utilization": 0.05,
+  "phi_Mn_kNm": 189.28,
+  "demand_capacity_ratio": 0.0528,
+  "delta_allow_mm": 22.222,
+  "verdict": "PASS",
+  "equilibrium_force_residual_kN": 4.021671884402167e-12,
+  "equilibrium_moment_residual_kNm": -1.4762235878151841e-10
+}
